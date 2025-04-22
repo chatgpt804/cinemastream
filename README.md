@@ -1,5 +1,5 @@
 
-<img src="./src/assets/CineCanvas.png" alt="CineCanvas Logo"/> 
+<img src="./src/assets/CineCanvas_white_bg.png" alt="CineCanvas Logo"/> 
 
 
 
