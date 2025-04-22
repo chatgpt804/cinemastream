@@ -5,7 +5,8 @@
 
 
 
-_Cinecanvas_ is a fast, modern movie‑browsing web app built with Vite and React, styled using Tailwind CSS and shadcn/ui, integrated with TMDB and VidSrc APIs for metadata and streaming embeds, and deployed on Cloudflare Pages for global performance.
+[**Cinecanvas**](https://cinecanvas.pages.dev/)
+ is a fast, modern movie‑browsing web app built with Vite and React, styled using Tailwind CSS and shadcn/ui, integrated with TMDB and VidSrc APIs for metadata and streaming embeds, and deployed on Cloudflare Pages for global performance.
 <p align="center">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> 
