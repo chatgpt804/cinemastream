@@ -1,7 +1,7 @@
 import MovieList from "@/components/MovieList"
 import Player from "@/components/Player"
 import SearchList from "@/components/SearchList"
-import Trending from "@/components/Trending/trending"
+import Trending from "@/components/Trending/Trending"
 import TVPlayer from "@/components/TVPlayer"
 import TVShowList from "@/components/TVShowList"
 import { Route, Routes } from "react-router"
