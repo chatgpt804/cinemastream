@@ -57,9 +57,8 @@ cd Cinecanvas
 npm install  
 ```  
 
-## Configuration  
-1. Copy `.env.example` to `.env`.  
-2. Add your `TMDB_API_KEY` and any VidSrc credentials.  
+## Configuration   
+  Add your `TMDB_API_KEY` and any VidSrc credentials.  
 
 ## Usage  
 ```bash
