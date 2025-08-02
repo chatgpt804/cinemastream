@@ -26,6 +26,10 @@
 - **Blazing Fast HMR**: Vite’s Hot Module Replacement updates modules in‑place without full reloads, preserving state and boosting developer productivity.  
 - **Global Edge Deployment**: Hosted on Cloudflare Pages for instant, Git‑driven builds, automatic HTTPS, and edge caching across 275+ cities.  
 
+
+> [!NOTE]
+> Use Ad Blockers or Brave Browser for better experience
+
 ## Technology Stack  
 
 ### Vite  
