@@ -5,6 +5,8 @@ import React, { useContext, useState } from "react"
 import logo from "../assets/CineCanvas.png"
 import Genres from "./Genres"
 import { Input } from "./ui/input"
+import ThemeToggle from "./ThemeToggle"
+import { IoLogoGithub } from 'react-icons/io5';
 import { Link, useNavigate  } from "react-router"
 import { SearchResultContext } from "@/context/searchResult.context"
 
@@ -54,6 +56,10 @@ const Navbar = () => {
             </Link>
             </div>
         </div>
+        <a href="https://github.com/Optimized-Brain/Cinecanvas" target="_blank" rel="noopener noreferrer">
+          <IoLogoGithub size={30} />
+        </a>
+        <ThemeToggle />
       </div>
     </div>
   )
