@@ -2,7 +2,7 @@ import { useParams } from "react-router";
 
 const TVPlayer = () => {
     const {tvplayerId} = useParams();
-    const movieURL = `https://vidsrc.xyz/embed/tv/${tvplayerId}`;
+    const movieURL = `https://vidsrcme.su/embed/tv/${tvplayerId}`;
     return (
         <div>
             <iframe
