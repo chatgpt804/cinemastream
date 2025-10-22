@@ -8,7 +8,7 @@ const TVPlayer = () => {
     episode: string;
   }>();
 
-  const tvURL = `https://embed.vidsrc.pk/tv/${imdbId}/${season}-${episode}`;
+  const tvURL = `https://embed.vidsrc.pk/tv/${tvplayerId}`;
 
   return (
     <div className="w-full h-screen">
